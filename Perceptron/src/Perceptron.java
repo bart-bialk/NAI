@@ -45,6 +45,7 @@ public class Perceptron {
 
     public void learn(){
         Map<String,Integer> valuesMap = getValuesMap(trainList);
+        Collections.shuffle(trainList,new Random());
 
             for (DataRecord record : trainList) {
                 int y = compute(record);
