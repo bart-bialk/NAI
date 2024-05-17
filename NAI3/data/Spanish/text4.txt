@@ -1,0 +1,379 @@
+Apple, Inc. es una empresa tecnológica multinacional estadounidense con sede en Cupertino, California. Es la empresa de tecnología más grande del mundo por ingresos, con US$394,3 mil millones de dólares en ingresos en 2022. En marzo de 2023, Apple es la empresa más grande del mundo por capitalización de mercado. En junio de 2022, Apple es el cuarto mayor proveedor de computadoras personales por ventas de unidades; la mayor empresa manufacturera por ingresos; y primer fabricante de teléfonos móviles del mundo en 20233​. Se considera una de las cinco grandes empresas estadounidenses de tecnología de la información, junto con Alphabet (empresa matriz de Google), Amazon, Meta Platforms (empresa matriz de Facebook) y Microsoft.
+
+La empresa operaba, en mayo de 2014, más de 408 tiendas propias en nueve países,4​ miles de distribuidores (destacándose los distribuidores prémium o Apple Premium Resellers) y una tienda en línea (disponible en varios países) donde se venden sus productos y se presta asistencia técnica. De acuerdo con la revista Fortune, Apple fue la empresa más llamativa en el mundo entre 2008 y 2012.5​ En 2015, se convirtió en la empresa más valiosa del mundo según el índice BrandZ al alcanzar los 247.000 millones de euros de valor.6​ El 3 de agosto de 2018, según The Wall Street Journal, la compañía se convirtió en la primera empresa en lograr una capitalización de mercado de 2 billones (mil millardos) de dólares. En el 2020, su valor se estimaba en unos 2,5 billones de dólares.7​ y al 3 de enero de 2022, rebasaba la cifra de los 3 billones de dólares.8​9​
+
+Las dos primeras tiendas Apple Inc abrieron en los Estados Unidos en 2001. En 2003, amplió su red en Japón, con la apertura de la primera tienda fuera de los EE. UU. Esto fue seguido por la apertura de tiendas en Australia, Bélgica, Japón, Canadá, Dinamarca, Reino Unido, Italia, Singapur, Alemania, Suecia, Francia, Países Bajos, Suiza, Austria, Corea del Sur, Macao, Taiwán, Turquía, Emiratos Árabes Unidos, Marruecos, Polonia, y Tailandia. con distribuidores autorizados en Arabia Saudita, Noruega, Nueva Zelanda, Sudáfrica, Islandia, Estonia, Rusia, Irlanda, Finlandia, y Luxemburgo. En Iberoamérica cuenta con tiendas en España, México y Brasil, además de tener distribuidores autorizados en Portugal, Colombia, Argentina, Chile, Estados Unidos, Honduras, El Salvador, Guatemala, Nicaragua, Canadá, Panamá, República Dominicana y Costa Rica.10​9​
+
+Historia y evolución
+1976-1980: Fundación e incorporación
+
+Un Apple I en el Instituto Smithsoniano.
+Steve Wozniak y Steve Jobs se conocieron en el año 1971, cuando un amigo mutuo, Bill Fernández, presentó a Wozniak, quien tenía 21 años de edad, a Jobs, entonces de 15 años. Steve Wozniak, a quien le gustaba que le llamaran Woz, siempre había sentido una gran atracción por la electrónica en general, diseñando desde que era pequeño circuitos en papel para después tratar de optimizarlos al máximo. Dada su afición por la electrónica, Woz "apadrinaba" a otros chicos a los que les gustase el tema, como Bill Fernández, o el mismo Steve Jobs.
+
+Pronto Wozniak empezó a dedicar cada vez más y más tiempo a construir en papel su propia computadora. Tras intentos relativamente infructuosos en su oficina de trabajo en Hewlett-Packard (sus jefes vieron el proyecto y no estaban interesados y le autorizaron a continuarlo),11​ finalmente sus esfuerzos dieron como resultado lo que sería la Apple I. Tras la presentación de su computadora en el club informático Homebrew Computer Club y asombrar a sus participantes,12​ Jobs rápidamente vio la oportunidad de negocio, por lo que empezó a promover la computadora entre otros aficionados de la informática del Homebrew Computer Club y otras tiendas de electrónica digital.
+
+Al poco tiempo empezaron a recibir pequeños encargos de computadoras que construían ellos mismos con máquinas hechas a mano, llegando a vender unos 200 ejemplares de su máquina Apple I. El 1 de abril de 1976 fue fundada Apple Computer a través de un contrato firmado por sus tres accionistas: Steve Wozniak, Steve Jobs y Ron Wayne,13​ este último antiguo compañero de trabajo de Jobs en la empresa Atari,14​ y con apenas 10 % de la nueva empresa.15​ Doce días después de la fundación Wayne vende sus acciones por US$800 y pasado el tiempo el contrato original que él mismo firmó por US$500.16​ Dicho contrato luego se subastó el 13 de diciembre de 2011 en Nueva York, el cual tuvo como base un valor inicial de entre 100 y 150 mil dólares,17​ pero que alcanzó finalmente un valor venta de 1,59 millones de dólares.18​ Se les unieron más amigos, pero las prestaciones del Apple I eran limitadas, así que empezaron a buscar financiación. Finalmente, Jobs conoció a Mike Markkula, que accedió a invertir 250 000 USD.
+
+En total, se produjeron y se vendieron alrededor de doscientas unidades a 666.66 USD la unidad,19​ pero el éxito fue tal que no pudieron dar abasto a tanta demanda. Las características del Apple I eran limitadas por el poco dinero del que disponían Jobs y Wozniak. De hecho, para construir el prototipo, Jobs tuvo que vender su camioneta y Woz su calculadora programable HP.
+
+El Apple II y el éxito
+
+Apple Campus, en Cupertino, California, antigua sede de la compañía.
+Con el dinero ganado gracias a la venta del Apple I, en Apple pudo comenzar a pensar en una máquina bastante más ambiciosa: el Apple II. Para Wozniak, el Apple II iba a ser simplemente la computadora que hubiera querido construir si no hubiera tenido las limitaciones económicas que tuvo con el Apple I. Tuvo la idea de incluir en el equipo memoria de vídeo para administrar la visualización en color, del mismo modo que incluía numerosas tarjetas de expansión de modo que los usuarios pudieran ampliar las capacidades de la computadora según sus propias necesidades.
+
+Con el diseño del primer prototipo del Apple II recién terminado, Apple decidió asistir al festival informático Personal Computing Festival, un nuevo certamen. Allí, la incipiente industria de la microinformática podía mostrar sus progresos y hacer negocio y contactos. En el vuelo a Filadelfia, lugar donde se celebraría en 1976, los fundadores de Apple coincidieron en el avión con los fundadores de Processor Technology y su recién diseñada computadora Sol, coincidencia que tuvo un gran impacto en el futuro inmediato de Apple.
+
+La gran mayoría de máquinas y empresas dedicadas a la microinformática en 1976, y por consiguiente prácticamente todas las que formaban el festival, eran en general jóvenes fanáticos de la informática con kits que los usuarios debían montar y/o soldar para poder hacer funcionar, por lo tanto enfocadas sobre todo a los entusiastas de la electrónica. Sin embargo, Processor Technology ofrecía una imagen mucho más seria y profesional, y su Sol era una computadora que si bien estaba enfocado, al igual que los demás, como un kit que debía montarse, también se daba la posibilidad de adquirirla como computadora ya montado y listo para utilizar.
+
+Fue entonces cuando Steve Jobs comprendió que el futuro no estaba en placas con componentes que los usuarios debieran montar y soldar ellos mismos, sino en computadoras como el Sol, ya montadas y preparadas para el uso y disfrute de los usuarios. Por lo tanto, el Apple II, el cual aún no había salido a la venta, debía incorporar la salida de vídeo, el teclado y todo aquello que necesitara en una caja de plástico para hacer que su uso fuera más sencillo.
+
+
+Apple II
+Si bien Steve Wozniak era el diseñador de toda la lógica y la electrónica del Apple II, Steve Jobs era el creador del concepto y la visión de futuro de Apple, buscando al mismo tiempo la forma de crear un producto que pudiera satisfacer a todos los usuarios, y no solo a los más técnicos. Aparte de la decisión de vender el Apple II como un conjunto perfectamente empaquetado, otras importantes decisiones suyas fueron la de invertir en mejores sistemas de alimentación eléctrica y control del calentamiento del equipo, siendo el Apple II una computadora completamente silenciosa gracias a que no necesitaba ventiladores para controlar su temperatura.
+
+Pero concebir tal máquina suponía mucho dinero y un personal calificado, algo que no tenían. Ningún banco quería arriesgarse en tal proyecto, y menos en aquellos tiempos: una computadora utilizable por el gran público parecía absurdo en la época, puesto que los bienes posibles de los habitantes, eran escasos para comprar este tipo de tecnología. Ronald Wayne, que había ayudado a Jobs y Wozniak a concebir el Apple I, era escéptico sobre las oportunidades de éxito de tal proyecto y abandonó a la compañía. Jobs conoció finalmente a Mike Markkula20​ en 1977, quien aportó su peritaje en asuntos y un cheque de US$250 000 al capital de Apple. También proporcionó en esa ocasión su primer Presidente a Apple, Mike Scott.
+
+El modelo final de Apple II se presentó al público en abril de 1977 convirtiéndose en el canon de lo que debía ser a partir de entonces una computadora personal. Por este motivo, Apple cambió su logotipo por el famoso logo de la manzana coloreada, que recordaba que el Apple II era una de las primeras computadoras en disponer de monitor en color.
+
+Otras teorías aseguran que el logo fue en honor al matemático y precursor de la informática Alan Turing, fallecido tras morder una manzana.21​
+
+A mediados de 1979, Apple presentó el Apple II+, una evolución del Apple II dotada, en particular, con más memoria (48 KiB ampliable a 64 KiB) y lenguaje de programación BASIC.
+
+Gran parte del éxito de Apple se basaba en que fue una computadora realizada para gustar tanto a los expertos hackers como al público más profano en términos de informática. Pronto, la base de software para el Apple II comenzó a crecer, haciendo más atractivo la computadora al resto del público, en especial cuando apareció en el mercado la primera hoja de cálculo de la historia, la VisiCalc, la cual hizo vender ella sola miles de computadoras Apple II.
+
+Computadoras posteriores
+
+Apple III
+Mientras que el Apple II conocía un éxito creciente, Apple ya trabaja en sus sucesores. Lisa debía ser una evolución del Apple II, una máquina de transición antes de Lisa y Macintosh que serían una nueva clase de equipos. Para el sucesor del Apple II, Steve Jobs quería una máquina más avanzada aún para contribuir al mercado de la informática de empresa. Los ingenieros debían ajustarse a objetivos muy ambiciosos o incluso a veces casi irrealizables (un tema recurrente en la historia de Apple), sobre todo teniendo en cuenta que el período de desarrollo de esta máquina era corto (algo menos de un año). Aunque las ventas del Apple II eran más fuertes que nunca, Apple pensaba que estas empezarían a bajar pronto, por lo que sería necesario presentar a su sucesor lo más rápidamente posible.
+
+La computadora fue presentada finalmente en mayo de 1980 bajo el nombre de Apple III. Desgraciadamente, algunas elecciones técnicas, entre las cuales se encontraba la ausencia de un ventilador, causando un sobrecalentamiento en muchos equipos.22​ Miles de Apple III debieron sustituirse. Algunos meses más tarde, en noviembre de 1981, Apple lanzó una nueva versión del Apple III, que corregía todos los grandes problemas de la versión inicial. Un Apple III+ salió incluso en 1983. Pero los problemas de sus comienzos desalentaron a los compradores y fueron la razón de que el Apple III se convirtiera en el primer gran fracaso comercial de Apple. Solo se habían vendido 65,000 equipos a final de verano, mientras que Apple pensaba vender millones como el Apple II. Los equipos que salieron en los años siguientes llevaban el nombre de Apple II (IIe en enero de 1983, IIc en 1984, etc.) para olvidar los sinsabores del Apple III.
+
+Pese al fracaso del Apple III, Apple aún tenía dos modelos a desarrollar: Lisa y Macintosh. La gran apuesta de Apple era Lisa, la cual debía convertirse en la nueva generación de computadoras de Apple y con el que se pretendía también atacar el mercado empresarial que se le había negado con el Apple III y que sin embargo estaba siendo abarcado por la IBM PC, mientras que la Macintosh era un proyecto iniciado por Jef Raskin para construir una pequeña computadora muy económica y fácil de usar pensada para el mercado doméstico.
+
+
+Apple Lisa con una unidad de disco duro en la parte superior
+Apple Lisa estaba pensado para ser la nueva generación de computadoras, y para conseguirlo no se reparó en gastos. Se incluyó en el modelo final un monitor, dos unidades de disquete, un disco duro de 5 megabytes (algo inmenso para la época) y todo un megabyte (1 MiB) de RAM. Sin embargo, lo que primero saltaba a la vista no eran todas estas características, sino la GUI, su novedosa interfaz de usuario basada en iconos que se activaban apuntando con una flecha controlada por un curioso dispositivo denominado ratón o mouse.
+
+El 12 de diciembre de 1980, Apple entró en la bolsa de valores. Hasta ese momento, solamente algunos de los empleados de Apple poseían acciones de la empresa. En unos minutos, los 4,6 millones de acciones se vendieron a 22 dólares la unidad, aumentando instantáneamente en 100 millones de dólares el capital de Apple. Al mismo tiempo, decenas de empleados de Apple se convirtieron en millonarios.23​
+
+Pese a los éxitos económicos y la expansión a nivel mundial de la empresa, 1981 fue un año bastante duro para Apple. Aparte de los problemas del Apple III, en febrero de este año, se decidió purgar la plantilla de empleados; por lo que autorizó la despedida de 40 trabajadores de Apple (en total, la empresa superaba los 1000 empleados). Al mes siguiente, el purgado esta vez fue el mismo presidente, Scott, siendo reemplazado por Mike Markkula y asumiendo Steve Jobs el cargo de director (chairman).
+
+El 12 de agosto salía al mercado la principal amenaza a la hegemonía de Apple, el IBM PC. Pese a que no era una máquina muy innovadora, la imagen de marca de IBM le otorgaba un gran atractivo en el sector empresarial, por lo que se convirtió en un fulgurante éxito.
+
+Mike Markkula relevó a Steve Jobs del equipo Lisa, acusándolo de administrar mal al equipo (el proyecto se retrasaría por estos cambios). Jobs se puso a trabajar sobre el proyecto Macintosh. El Lisa salió finalmente a principios de 1983, y se convirtió en la primera computadora personal con interfaz gráfica y mouse. A pesar de su carácter revolucionario, Lisa se vendió muy mal, debido principalmente a su elevado precio: 10 000 USD. Mientras Apple sufría los fracasos del Apple III y de Lisa, Mike Markkula dimitió de la dirección de Apple en 1983. El puesto de Presidente se propuso a John Sculley, entonces vicepresidente de Pepsi. En un primer momento rechazó el puesto; para convencerlo Steve Jobs le planteó esta profunda pregunta: «¿Prefiere pasar el resto de su vida vendiendo agua azucarada o tener la oportunidad de cambiar el mundo?». John Sculley aceptó finalmente y se convirtió en el tercer Presidente de Apple.
+
+Batalla legal contra Apple Corps
+
+Este artículo o sección necesita referencias que aparezcan en una publicación acreditada.
+Busca fuentes: «Apple» – noticias · libros · académico · imágenes
+Este aviso fue puesto el 8 de marzo de 2016.
+En 1978, Apple Corps denunciaría a Apple Inc. por infracción de marcas registradas. El juicio fue visto para sentencia en 1981 con el pago de 80,000 dólares a Apple Corps. Como condición, Apple Computer aceptaba no inmiscuirse en el mercado musical. En 1989, se desarrollaría otra batalla legal, alegando Apple Corps que las máquinas creadas por Apple Computer podían reproducir archivos en formato MIDI, infringiendo los términos del anterior litigio. En 1991 se alcanzaría otro acuerdo previo pago de 26,5 millones de dólares.
+
+En septiembre de 2003, Apple Computer era nuevamente denunciada por Apple Corps, esta vez por crear la tienda musical iTunes y el iPod, que Apple Corps vio como una violación de los últimos acuerdos en los que Apple Inc. acordaba no distribuir música. El juicio comenzó el 29 de marzo de 2006 en el Reino Unido, siendo visto para sentencia el 8 de mayo de 2006, con Apple Corps perdiendo el caso.
+
+El 5 de febrero de 2007, Apple Inc. y Apple Corps anunciaron un acuerdo en su disputa por las marcas registradas en la que Apple Inc. preservaba el derecho sobre todas las marcas relacionadas con «Apple». El acuerdo cierra la batalla legal entre ambas compañías, en la que ambas partes pagaban sus respectivos costes legales y en la que Apple Inc. podría seguir usando el nombre y logotipo en iTunes. El acuerdo incluía acuerdos y términos confidenciales. Hoy día, Apple Inc. ha anunciado un acuerdo para poder distribuir la música de los Beatles en su tienda musical iTunes.
+
+1981-1989: Éxito con el Macintosh
+
+Macintosh 128K
+Tras el fracaso del Apple III y el Apple Lisa, la compañía se volcó en el pequeño proyecto de Jef Raskin primero y Steve Jobs después: el Macintosh. Tras numerosos retrasos y problemas, especialmente con el software, el cual no estuvo preparado hasta prácticamente el último momento, y tras la emisión de un destacado anuncio de televisión durante la celebración del Super Bowl de ese año, comercial dirigido por Ridley Scott y considerada el mejor comercial de televisión de la década de 1980 por Advertising Age,24​ la computadora fue presentada el 24 de enero de 1984.
+
+Las previsiones de venta iniciales de medio millón de unidades vendidas hasta fin de año parecían que podrían cumplirse durante los primeros meses de 1984, pero poco a poco las ventas se fueron ralentizando, provocando el pánico en Apple.
+
+Entre los muchos motivos que hicieron erosionarse las ventas del Macintosh, se puede destacar el alto precio (2495 USD), la escasa memoria RAM instalada en la computadora (solamente 128 KiB), la inclusión de una única unidad de disco, la no inclusión de puertos de expansión y la falta de software, ya que, salvo Apple, solamente Microsoft acudió a la cita del Mac con productos de software.
+
+Pero no solamente las ventas de Macintosh se reducían, sino también el hasta ahora sustento de la compañía, el Apple II, empezaba a mostrar el desgaste de los años. En Apple se decidió unificar los proyectos de Lisa y Macintosh en uno solo, presentando la computadora Apple Lisa como un Macintosh de gama alta (pese a tener un procesador más lento).
+
+Sin embargo, dicha unificación no hizo más que generar tensiones dentro de la propia Apple, ya que por un lado el grupo encargado del Apple II se veía completamente desplazado pese a que era el único económicamente rentable, y por el otro tanto el grupo de desarrollo del Lisa como del Macintosh tenían filosofías de trabajo muy distintas, así como condiciones salariales y, especialmente, sueldos, pues en algunas ocasiones, se retenían los pagos a los empleados.[cita requerida]
+
+La suerte del equipo cambió con la introducción de la primera impresora láser PostScript, la LaserWriter, que se ofrecería a un precio razonable, y que junto con PageMaker y el propio Macintosh crearon el concepto de «Autoedición». El Mac fue particularmente fuerte en este mercado debido a sus capacidades gráficas avanzadas, estas capacidades eran parte de su intuitiva interfaz gráfica de usuario.
+
+En 1985, se generó una lucha de poder entre Steve Jobs y el consejero delegado John Sculley, que había sido contratado por el propio Jobs dos años antes. Jobs no estaba dispuesto a ser relegado a un puesto irrelevante en la compañía que fundó (su oficina fue trasladada a un edificio casi desierto en el campus de Apple al que Jobs llamaba Siberia)25​ y comenzó a conspirar con los ejecutivos de Apple para hacerse con el control. Sculley se enteró de que Jobs había estado tratando de organizar un golpe de Estado y convocó a una reunión de la junta el 10 de abril de 1985, en la cual, la junta directiva de Apple se puso unánimemente del lado de Sculley y Jobs fue retirado de sus funciones como gestor. Unas semanas después Jobs abandonó Apple y fundó NeXT Inc. ese mismo año.26​
+
+Greenpeace y Apple
+Greenpeace lideró una campaña para que Apple dejara de utilizar materiales altamente contaminantes abandonados por otros grandes fabricantes de computadores, hecho por el cual la misma dejó de usar mercurio y otros componentes, y comenzaron a fabricar sus productos con LCD reciclable y aluminio.27​
+
+2013-presente: Adquisiciones y expansión
+El 28 de mayo de 2014, Apple confirmó su intención de adquirir el Dr. Dre y compañía audio de Jimmy Lovine, Beats Electronics —productor de los Beats by Dr. Dre línea de auriculares y productos altavoces, y el operador del servicio de streaming de música Beats Music— por 3000 millones de dólares. En lo que respecta a la oferta, Tim Cook declaró que «La música es una parte tan importante de la vida de todos y tiene un lugar especial en nuestros corazones en Apple. Por eso hemos mantenido la inversión en la música y estamos reuniendo a estos equipos extraordinarios para entonces seguir para crear los productos y servicios de música más innovadores en el mundo». Como resultado de la adquisición, Apple planea ofrecer productos Beats «a través de sus puntos de venta y distribuidores», pero la compañía no ha hecho ninguna indicación adicional sobre cómo integrarán Beats en línea de productos de Apple.
+
+Productos
+Mac
+Artículo principal: Macintosh
+De escritorio:
+
+
+iMac M1
+Mac mini: dirigido a usuarios intermedios. Es el más pequeño, económico y con menor potencia de la familia Mac. aunque con grandes prestaciones, potencial y capacidad con relación a sus dimensiones. Se presentó en enero de 2005.
+iMac: dirigido a usuarios de tipo medio-profesional. Su principal característica es la unificación de todos los componentes del ordenador en una carcasa en la que se encuentra incluida la pantalla. Se presentó en 1998.
+eMac: dirigido a usuarios de ámbito educativo. Basado en el iMac G3, cuenta con procesadores G4 y pantalla CRT de 17 pulgadas. Se presentó en abril de 2002 (descatalogado desde octubre de 2005).
+iMac Pro: dirigido a usuarios de tipo profesional. Es el más potente de todos los iMac. Se presentó en el WWDC de 2017 (Descatalogado desde marzo de 2021).
+Portátiles:
+
+
+MacBook Air M2
+MacBook: dirigido a usuarios de tipo medio-profesional. Es el portátil más vendido y popular de Apple, por su pequeño grosor y tamaño. Se presentó en 2006. Retirada del mercado el 20 de julio de 2011. El 9 de marzo del año 2015, Apple volvió a presentar el dispositivo con el nombre de «Macbook» y estaba dirigido a usuarios de tipo medio-bajo. Este portátil es mucho más delgado que el MacBook Air considerándolo actualmente como el portátil más delgado del mundo.
+MacBook Air: dirigido a usuarios intermedios. Se presentó en enero de 2008 como el ultraportátil de apple, el ordenador más delgado del mundo después del "MacBook" presentado el 9 de marzo del año 2015.
+MacBook Pro: dirigido a usuarios de tipo profesional. Similar al MacBook, solamente que con más potencia y rendimiento. Se presentó en enero de 2006.
+Servidores:
+
+Xserve: dirigido a profesionales y empresas. Potente servidor de doble núcleo Intel Xeon. (descatalogado desde 31-01-2011).
+MacPro Server: versión especial del Mac Pro con las mismas prestaciones que el Xserve.
+Mac Mini Server: versión especial del Mac Mini con dos HDD, no cuenta con unidad de discos ópticos.
+Accesorios
+Apple vende una gran variedad de accesorios para sus ordenadores Mac, también compatibles para ordenadores que posean otro sistema operativo. Sus accesorios más importantes son:
+
+Estaciones Wi-Fi (802.11n)
+Airport Express: estación Wi-Fi portátil. Recomendado para pisos pequeños o apartamentos. Pequeño y versátil, para un cómodo desplazamiento.
+AirPort Extreme: estación Wi-Fi de escritorio. Recomendado para viviendas, oficinas o aulas de grandes dimensiones. Capaz de crear una red Wi-Fi de alta velocidad.
+Time Capsule: estación Wi-Fi de escritorio y disco duro externo. Recomendado para viviendas, oficinas o aulas de grandes dimensiones. Capaz de crear una red Wi-Fi de alta velocidad. Funciona con la aplicación Time Machine de Mac OS Leopard. Funciona para crear copias de seguridad de los archivos creados. También es compatible con Windows.
+Teclados
+Apple Keyboard: teclado con cable de Apple. Viene por defecto en los ordenadores Mac. Extrafino, consta de un teclado estándar y otro numérico, además de dos puertos USB de alta velocidad.
+Magic keyboard y Magic keyboard 2: teclado inalámbrico de Apple. Extrafino, consta de un teclado estándar. Utiliza tecnología inalámbrica por Bluetooth.
+Ratones
+Apple Magic Mouse: ratón inalámbrico con tecnología Multi-Touch de Apple. Viene como ratón por defecto con todos los iMac nuevos.
+Apple Mouse: ratón con cable de Apple. Consta de una carcasa sensible al tacto, dos teclas sensibles a la presión, y de una esfera central que permite hacer desplazamientos en todas las direcciones.
+Apple Magic Trackpad: es un trackpad multitouch inalámbrico vía bluetooth con todas las funciones de los del Macbook Pro pero un ochenta por ciento más grande que va a juego con el Apple Wireless Keyboard.
+Pantallas
+LED Cinema Display: pantalla TFT de cristal líquido de matriz activa de 27 pulgadas (visibles) retroiluminada por LED, compatible con portátiles y sobremesas con puerto Mini DisplayPort como el MacBook Air, MacBook Pro, Mac Pro, Mac mini e iMac.
+Studio Display: pantalla led de gama media compatible con los nuevos modelos de Mac
+Pro Display XDR: pantalla para uso profesional
+iPod
+Artículo principal: IPod
+
+Familia iPod actual
+El 23 de octubre de 2001, Apple presentó el iPod, un reproductor de audio digital. Este dispositivo ha evolucionado para incluir a diversos modelos orientados a satisfacer las necesidades de los diferentes usuarios. El iPod es el líder del mercado en reproductores de música portátiles por un margen significativo, con más de 100 millones de unidades enviadas a partir del 9 de abril de 2007.28​ Apple se ha asociado con Nike para presentar el deportivo Nike iPod Kit que permite sincronizar los corredores a vigilar y sus carreras con iTunes y el sitio web de Nike.29​ Apple vende actualmente cuatro variantes del iPod con un soporte descargable en su sitio web30​ llamado iTunes (/aituns/), con el que se dan servicios de actualizaciones y gestión de música, y que permite la compra y descarga de esta música en versiones originales y completamente legales en algunos países seleccionados:
+
+iPod classic, (desde 2001 hasta 2007 llamado iPod y posteriormente iPod Video) reproductor multimedia portátil, introducido en 2001, descatalogado desde 2014.
+iPod nano, reproductor multimedia portátil introducido en 2005, actualmente disponible en modelos de 8 y 16 GB. Han sido vendidos numerosos modelos de este producto en muchas versiones. Descatalogado en 2017.
+iPod shuffle, reproductor digital de audio introducido en 2005, disponible actualmente en varios colores y únicamente con 2 GB de memoria interna. Descatalogado en 2017.
+iPod touch, reproductor multimedia portátil introducido en septiembre de 2007, en su primera versión que dispone de 8, 16 y 32 GB; y disponible en un segundo modelo denominado iPod touch de segunda generación (2G) con bluetooth, pantalla táctil, sensor de movimiento (acelerómetro), control de volumen a través de dos pequeños botones laterales, altavoces internos y una memoria bastante alta de 16 o bien 32 GB y ahora en su nueva presentación de 64 GB. El 1 de septiembre de 2010, se presentó la cuarta generación del iPod touch, el cual incluye una cámara delantera y trasera. Además de una pantalla Retina con una resolución de 960 × 640 píxeles a 326 píxeles por pulgada, incluye retroiluminación LED. En septiembre de 2015 fue presentado el iPod Touch de quinta generación, con rasgos similares al anterior dispositivo de cuarta generación.
+El iPod mini fue una versión de tamaño reducido del reproductor de música portátil iPod.
+iPhone
+
+iPhone, 3G, 4, 5, 5C y 5S
+En la conferencia y expo en enero de 2007, Steve Jobs presentó el anticipado iPhone, una convergencia de Internet habilitado para el iPod y los teléfonos inteligentes. El iPhone combina un 2,5 G de banda cuádruple GSM y EDGE teléfono celular con características se encuentran en dispositivos de mano, ejecutando una reducción de las versiones de Apple Mac OS X, con diversas aplicaciones de Mac OS X como Safari y Mail. También incluye basado en la web y Dashboard aplicaciones, tales como Google Maps y el tiempo. El iPhone presenta una pantalla táctil de 3.5 pulgadas (89 mm) 4, 8, 16 o 32 GB de memoria (el de 4 GB se dejó de comercializar en julio de 2008), bluetooth y Wi-Fi (tanto «b» y «g»). El iPhone se hizo disponible por primera vez el 29 de junio de 2007 por 499 USD (4 GB) y 599 USD (8 GB) con contrato de AT&T. El 5 de febrero de 2008 Apple actualizó el iPhone original añadiéndole una versión de 16 GB. El 9 de junio de 2008, en WWDC de 2008, Steve Jobs anunció que el iPhone 3G estaría disponible el 11 de julio de 2008. Esta versión permitió que el iPhone pudiera correr en la red 3G y agregó navegación GPS, entre otras cosas. El 8 de junio de 2009 en la WWDC Apple presenta junto al iPhone OS 3.0 el nuevo iPhone 3GS disponible con cámara de vídeo, brújula interna, con unas capacidades de 16 y 32 GB, ambos en colores negro y blanco con un precio de $199 (16 GB) y $299 (32 GB). El iPhone 4 es la nueva generación de iPhone, evolución del 3GS, entre sus características cabe destacar su procesador A4, su pantalla Retina Display Multi-Touch de 3.5 pulgadas con una resolución de 960 × 640 píxeles a 326 p/p, la incorporación de una cámara de 5 megapíxeles más un LED Flash, la capacidad de grabar vídeos en alta definición a 720p, otra cámara adicional para realizar videoconferencias con la aplicación FaceTime, la incorporación de un giroscopio de 3 ejes y el ser el primer iPhone en traer de serie el sistema operativo iOS 4. Además es el teléfono inteligente más delgado del mundo con solo 9.3 mm de ancho. Su precio inicial con contrato de permanencia de 2 años con AT&T en USA es de 199 y 299 USD de 16 y 32 GB respectivamente. Actualmente, Apple tiene a la venta el iPhone 4S, el cual tiene pocas novedades respecto al iPhone 4, sus diferencias más notables son el aumento de la velocidad del procesador y la inclusión de Siri, un software de asistente personal, capaz de abrir aplicaciones, responder preguntas e incluso dar recomendaciones.
+
+Apple anunció el 12 de septiembre de 2012 el lanzamiento del iPhone 5, el cual será más delgado, ligero y contará con iOS 6, el cual a su vez tendrá disponible más idiomas para Siri. Salió disponible en gris espacial y en plata. Apple finalmente anuncia el lanzamiento del iPhone 5. El día 10 de septiembre de 2013, se presentaron el iPhone 5C disponible en colores azul, verde, amarillo, rosa y blanco y el iPhone 5S, el cual dispone de un chip A7 y en colores gris espacial, oro y plata. Este es diferenciado de los demás iPhone principalmente porque es el primero que consta del sensor de huella digital Touch ID y también es el primero en tener un doble flash (Flash True Tone). Ambos tienen el sistema operativo iOS 7. El 9 de septiembre de 2014, Apple presentó el iPhone 6 con 4.7 pulgadas y el iPhone 6 Plus con 5.5 pulgadas. Estos se caracterizan por el aumento de pantalla. Aún son más finos que el iPhone 5/iPhone 5S. Ambos disponen del chip A8 con el sistema operativo iOS 8. Salieron disponibles con 16, 64 y 128 GB. El 9 de septiembre de 2015, Apple presentó el iPhone 6s y 6s Plus, de igual aspecto a sus predecesores pero con una mejor cámara, en el procesador (A9) y (M9), el nuevo color rosa oro, el aluminio serie 7000 (más resistente) y el innovador 3D Touch, únicamente compatible con este dispositivo aunque es posible hacerlo funcionar en el iPad Pro, por medio del Apple Pencil, pero mediante Jailbreak. El 7 de septiembre de 2016, Apple presentó el iPhone 7 y 7 Plus, este último con la característica innovadora de dos cámaras. El 12 de septiembre de 2017, Apple presentó el iPhone 8 y 8 plus, como también el iPhone X, cuya principal característica e innovación es su diseño «todo pantalla» y estrenando junto a él su nuevo sistema de seguridad denominado "Face ID" cuyo funcionamiento radica en el reconocimiento facial; todo esto dado el décimo aniversario del iPhone. El 12 de septiembre de 2018, Apple presentó novedosos dispositivos, de los cuales destacan los nuevos tres terminales: el iPhone Xs, iPhone Xs Max y el iPhone XR. Siendo el iPhone XS Max el teléfono con la pantalla más grande que Apple presentó en su historia con 6.5 pulgadas. A la vez que el iPhone XR es el más económico de esta generación, estando por debajo del precio natural de sus competidores de gama alta.
+
+En septiembre de 2019, se lanzaron los nuevos iPhone 11,iPhone 11 Pro y iPhone 11 Pro Max, sustituyendo respectivamente a los XR,XS y XS Max.
+
+El día 13 de octubre de 2020, se anunció en un evento organizado en línea el iPhone 12 con conectividad 5G; asimismo, también se anunció una versión mini de este nuevo teléfono inteligente.
+
+En 2021, se anunció un evento en el que se presentaba el iPhone 13 con características similares al iPhone 12, también se anunció la versión Pro y Pro Max
+
+El 7 de septiembre de 2022 fue presentado el iPhone 14, nuevamente con características similares al iPhone 13; también se presentó la versión Pro y Pro Max.
+
+El 12 de septiembre del 2023 se anunció el iPhone 15 con nuevas características y se presentó la versión Pro y Pro Max.
+
+Apple TV
+
+Actual generación de Apple TV
+Artículo principal: Apple TV
+En la conferencia Macworld de 2007, Jobs hizo una demostración de Apple TV, (anteriormente conocida como iTV31​), un dispositivo de vídeo destinado a unir la venta de contenidos de iTunes con los televisores de alta definición. El dispositivo se conecta a la TV del usuario y sincroniza, ya sea a través de Wi-Fi o de red cableada, con la librería iTunes de una computadora, desde donde se emite el flujo de información. Inicialmente, Apple TV incorporó un disco duro de 40 GB para almacenamiento, incluyendo conexiones HDMI y por componentes, siendo capaz de reproducir vídeo a una resolución máxima de 1080i.32​ El 31 de mayo de 2007, se puso a la venta un modelo con unidad de disco de 160 GB.33​ El 15 de enero de 2008, se publicó una actualización de software que permitía la compra de contenidos directamente desde Apple TV.34​
+
+El nuevo Apple TV utiliza un sistema de streaming que va desde el Mac, iPod Touch, iPhone o iPad hasta el Apple TV.
+
+El día 9 de septiembre de 2015, se presentó al público la cuarta generación de la Apple TV, teniendo esta una App Store desde donde se pueden descargar apps, como por ejemplo juegos. En lo que se refiere a hardware, entre otras cosas, posee un nuevo mando con un touch pad integrado, un nuevo procesador, más memoria interna y su propio sistema operativo denominado tvOS.
+
+iPad
+Artículo principal: IPad
+
+Steve Jobs, fundador de Apple, presentando el iPad
+El iPad es una nueva clase de dispositivo desarrollado por Apple Inc. Anunciado el 27 de enero de 2010, se sitúa en una categoría entre un teléfono inteligente y una notebook.
+
+Las funciones son similares al resto de dispositivos portátiles de Apple Inc. como es el caso del iPhone o iPod touch aunque la pantalla es más grande y con respecto al hardware es más potente, funciona sobre una versión adaptada del sistema operativo de iPhone (iOS), con una interfaz de usuario rediseñada para aprovechar el tamaño mayor del dispositivo y la capacidad de utilizar el servicio iBookstore de Apple con la aplicación iBooks (software para lectura de libros electrónicos). Posee una pantalla con retroiluminación LED, capacidades multitáctiles de 9,7 pulgadas (24,638 cm), de 16 a 64 gigabytes (GB) de espacio tipo memoria flash, Bluetooth y un conector dock de 30 pines que permite la sincronización con el software iTunes y sirve de conexión para diversos accesorios. Existen dos modelos: uno con conectividad a redes inalámbricas Wi-Fi 802.11n y otro con capacidades adicionales para redes 3G (puede conectarse a redes de telefonía celular HSDPA) y GPS Asistido. Ambos modelos pueden ser adquiridos en tres capacidades de almacenamiento distintas.
+
+El iPad 2 es la segunda generación del iPad, un dispositivo electrónico tipo tableta desarrollado por Apple Inc. Esta interfaz de usuario está rediseñada para aprovechar el mayor tamaño del dispositivo y la capacidad de utilizar software para lectura de libros electrónicos y periódicos, navegación web y correo electrónico, además de permitir el acceso al usuario a otras actividades de entretenimiento, como películas, música y videojuegos.1 Este iPad tiene una batería de litio que dura hasta 10 horas, un procesador dual core Apple A5 y dos cámaras designadas para videollamadas.
+
+Apple presentó el nuevo dispositivo el 2 de marzo de 2011,2 y se anunció que iba a salir a la venta el 11 de marzo de 2011 en los Estados Unidos y el 25 de ese mismo mes en países como España, México y Canadá. Después se anunció que saldría a la venta en otras regiones, como Hong Kong, Corea del Sur y Singapur el día 29 de abril del mismo año.
+
+Justo un año después, el 7 de marzo de 2012 Apple presentó el Nuevo iPad, la tercera generación de las tabletas. La principal mejora se encuentra en la pantalla, pasando a tener una resolución de 2048 × 1536 píxeles a 264 píxeles por pulgada, o lo que es lo mismo, «Pantalla Retina» como la que posee el iPhone 4, en la cual el ojo humano es incapaz de distinguir los píxeles por separado. Para mover la nueva resolución se incluyó un chip A5X de doble núcleo en cuanto a CPU y de cuatro núcleos en cuanto a GPU (gráficos), mejorando la fluidez del sistema operativo de serie incluido, iOS 5.1. También mejoró la cámara trasera «iSight», llegando hasta los 5 megapíxeles y utilizando la misma óptica de 5 lentes presente en el iPhone 4S. Aunque, según Apple, el mayor avance se produjo en la conexión inalámbrica 4G LTE (solo compatible con redes a 700 y 2100 MHz), si bien dicha red solo está disponible temporalmente en Estados Unidos y Canadá. El 4G llega hasta velocidades de 74 mbps de descarga. La batería también se vio aumentada debido al nuevo consumo de energía. El Nuevo iPad salió a la venta el 16 de marzo en Estados Unidos y el 23 en España.
+
+Software
+Apple desarrolla su propio sistema operativo para ejecutarse en Mac, macOS. Apple también desarrolla independientemente títulos de los programas informáticos para macOS, el sistema operativo de ordenadores. Apple desarrolla gran parte del software que incluye con sus ordenadores. Un ejemplo de ello es el paquete de software iLife, orientado al consumidor que contiene iDVD, iMovie, iPhoto, iTunes, iWeb y GarageBand. Para la presentación, diseño de página y de procesamiento de textos, está disponible iWork, que incluye Keynote, Pages y Numbers. Asimismo, iTunes, el reproductor de medios QuickTime y el navegador Safari están disponibles como descargas gratuitas, tanto para macOS como para Windows (Safari para Windows fue descontinuado en 2012).
+
+Apple también ofrece una amplia gama de títulos de software profesional. Su gama de software de servidor incluye el sistema operativo Mac OS X Server; mando a distancia Apple Remote Desktop, un mando a distancia los sistemas de gestión de aplicación; WebObjects, Java Web Application Server y Xsan, una red de área de almacenamiento del sistema de archivos. Para los profesionales de la creación del mercado, existe Aperture para profesionales del procesamiento de fotografías en formato RAW; Final Cut Studio, una suite de producción de vídeo; Logic, un amplio conjunto de herramientas musicales y Shake, un avanzado programa de composición de efectos.
+
+Apple también ofrece servicios en línea con MobileMe (antiguo.Mac) que incluye páginas web personales, correo electrónico, grupos, iDisk, copia de seguridad, iSync, Centro de Aprendizaje y tutoriales en línea. MobileMe es una suscripción basada en Internet suite que capitaliza sobre la capacidad de almacenar datos personales sobre un servidor en línea y, por ende, mantener a través de la web todos los dispositivos conectados en sincronización.
+
+Apple Watch
+Artículo principal: Apple Watch
+
+Apple Watch Ultra
+El Apple Watch es el primer smartwatch de la compañía de Cupertino, un reloj inteligente que llegó al mercado el viernes 24 de abril del año 2015.35​ Apple presentó dicho dispositivo durante el mes de septiembre en el evento donde también se dieron a conocer los nuevos iPhone 6s y iPhone 6s Plus. El reloj inteligente se nombró Apple Watch y no iWatch, tal y como se esperaba. Posteriormente, se descubrió que el motivo por el cual Apple no bautizó al Apple Watch como iWatch36​ fue porque la marca ya estaba registrada.
+
+El Apple Watch está disponible en tres modelos generales: Sport, Normal (Steel) y Edition, y en dos tamaños: 38 y 42 mm. El 9 de septiembre de 2015, se presentaron dos colores más para la edición Sport: el color rosa (Rosa Gold) y el dorado (Gold).
+
+Lista de productos
+Esta es una lista desplegable de los productos de Apple, desde el Apple I hasta el Apple Vision:
+
+Lista de productos de Apple
+Identidad corporativa
+Logo
+Desde la introducción del Macintosh en 1984, Apple ha sido reconocida por sus esfuerzos hacia una efectiva publicidad y la comercialización de sus productos, a pesar de que ha sido criticada por las reclamaciones de algunas campañas más recientes, en particular, la de Power Mac 2005.
+
+El primer logotipo de Apple, diseñado por Jobs y Wayne, representa a sir Isaac Newton sentado bajo un árbol de manzanas.37​ Sin embargo, el primer diseño no resultó del agrado de bastante gente en Apple, por lo que se encargó un rediseño a Rob Janoff, el cual presentó una variedad de logos monocromáticos basados en la misma manzana. El concepto gustó, pero Jobs insistió en que el logo incluyera los colores del arco iris para resaltar la humanización de la empresa y la calidad de imagen del Mac.38​
+
+Si bien generalmente se acepta que el logotipo es una referencia a Isaac Newton, una curiosa leyenda urbana asegura que el mordisco de la manzana rinde homenaje al matemático Alan Turing, quien se suicidó comiendo una manzana envenenada con cianuro.37​39​ Según la leyenda urbana, el arco iris de colores sería una referencia a la bandera arco iris, como un homenaje a la homosexualidad de Turing. Sin embargo, estas suposiciones no han sido confirmadas, y de hecho, los colores del logo ni siquiera se muestran en el mismo orden que en la bandera arco iris, dado que esta fue diseñada dos años más tarde del nacimiento del logo de Apple.40​ Otras teorías acerca de la motivación de la manzana, como la manzana del conocimiento o la referencia del mordisco al byte informático (en inglés, mordisco se escribe bite), también han sido desmentidas por Janoff, el diseñador original.41​
+
+En 1998, con la implantación de los nuevos iMac, Apple empezó a usar un logotipo monocromático debido a la insistencia de Jobs, el cual acababa de regresar a la empresa, en forma idéntica a su anterior encarnación arco iris.42​ El logotipo es uno de los más reconocidos símbolos de marca en el mundo, identifica todos los productos de Apple y tiendas de venta al público (el nombre de «Apple» en general casi nunca estuvo presente) y se ha incluido como autoadhesivos en casi todos los Macintosh y productos Apple. En 2001, se sustituyó el diseño monocromático por uno que reflejase el tema Aqua característico de macOS. En 2003, el logo volvió a sufrir una nueva modificación, adquiriendo un efecto cromado para publicitar Mac OS X Panther y el resto de gama de productos de Apple.42​
+
+Primer logo de Apple con Isaac Newton bajo un manzano(42A.C) (diseñado por Ronald Wayne).
+Primer logo de Apple con Isaac Newton bajo un manzano(42A.C) (diseñado por Ronald Wayne).
+
+Logo de Apple desde 1977 a 1998 (diseñado por Rob Janoff).[43]​
+Logo de Apple desde 1977 a 1998 (diseñado por Rob Janoff).43​
+
+Manzana monocromática usada desde 1998.
+Manzana monocromática usada desde 1998.
+
+Variante «cromada», similar a la utilizada entre 2007 y 2013 junto con la monocromática.
+Variante «cromada», similar a la utilizada entre 2007 y 2013 junto con la monocromática.
+
+La manzana de 1998 actualizada en 2013, según la tendencia del diseño plano.
+La manzana de 1998 actualizada en 2013, según la tendencia del diseño plano.
+Publicidad
+El primer eslogan de Apple fue «Byte into an Apple», acuñado a finales de 1970. De 1997 a 2002, el eslogan «Think Different» fue utilizado en campañas de publicidad, y está todavía estrechamente asociada con Apple. Apple también tiene consignas para las líneas de productos específicos, por ejemplo, «iThink, therefore iMac» que fue utilizado en 1998 para promover el iMac, y «Say hello to iPhone» que se ha utilizado en los anuncios del iPhone, «Hello» se utilizó para introducir el Macintosh original, Newton, iMac («hello (again)»), y el iPod.
+
+Página de inicio
+La página de inicio de Apple a menudo se ha utilizado para conmemorar o hacer tributo a hitos y eventos fuera de las ofertas de productos de Apple Inc.:
+
+2014 Robin Williams
+2013 Nelson Mandela
+2011 Steve Jobs
+2005 Rosa Parks
+2003 Gregory Hines
+2001 George Harrison
+Apple.com
+apple.com es el dominio de la página oficial de Apple Inc., formalmente Apple Computer, Inc (en inglés). Contiene numerosa información sobre sus productos, así como publicidad de sus promociones y anuncios de televisión (generalmente en el formato QuickTime, propiedad de la empresa norteamericana) así como información de soporte. La página www.apple.com/startpage es la predeterminada como inicio en el explorador web Safari.
+
+Apple Store
+Artículo principal: Apple Store
+44​
+
+Apple stores
+Plaza Unión, San Francisco (California)
+Plaza Unión, San Francisco (California)
+
+Hong Kong
+Hong Kong
+
+Quinta Avenida, Nueva York
+Quinta Avenida, Nueva York
+
+Londres
+Londres
+
+París
+París
+
+Sídney
+Sídney
+
+Ciudad de México
+Ciudad de México
+
+Madrid
+Madrid
+
+Barcelona
+Barcelona
+
+Los Ángeles
+Los Ángeles
+
+São Paulo
+São Paulo
+
+Berlín
+Berlín
+
+Taipéi
+Taipéi
+Críticas y controversias
+Apple ha sido criticada por su ingeniería fiscal en varios países con el afán de evadir impuestos.45​46​ También se la han criticado sus prácticas contra el medio ambiente y la explotación laboral que sufren los empleados de las empresas que Apple tiene subcontratadas en Asia.47​48​ En 2013, los documentos filtrados por Edward Snowden revelaron que Apple colabora con la NSA y otras agencias de inteligencia en la red de vigilancia global desde octubre de 2012.49​ Apple, además, está en contra de dar derecho a sus clientes a que puedan repararse sus propios dispositivos y hace lobbying en contra de ello.50​
+
+Conflicto con Epic Games
+En agosto de 2020, Apple fue demandado por Epic Games, debido a que estaba abusando de su poder de desarrolladores de las aplicaciones, por lo que eliminó Fortnite de la App Store por violar las pautas de pago dentro de la aplicación, además Tim Sweeney le respondió:
+"Apple se ha vuelto loco. Si las universidades imparten clases virtuales a través de una aplicación para iPhone, Apple podría exigir el 30% de la matrícula. Verdaderamente, Apple no tiene derecho de tomar ningún porcentaje de los ingresos de cualquier compañía solo porque hicieron el teléfono que la gente usa para acceder a las cosas”.
+Limitaciones de software
+Es conocida la costumbre de Apple de reducir las posibilidades del hardware de sus productos mediante su software, aprovechando que este también está desarrollado por la propia Apple. Algunos ejemplos de esto son:
+
+iPhone
+Limitación del Bluetooth del iPhone, en el que no están disponibles todos los perfiles posibles.
+Ausencia de radio en el iPhone, teniendo el iPhone un chip con capacidades de radio FM. En un principio se sospechaba que esto era para potenciar el uso de su plataforma musical iTunes Music Store. Más tarde han implementado el servicio en los nuevos iPods, descartando esta teoría.
+Ausencia de captura de vídeo en las primeras versiones del iPhone, cuando su cámara era capaz de grabar vídeo.
+Censura
+En 2009 tuvieron gran repercusión algunos casos de aplicaciones para el Sistema Operativo iOS censuradas por Apple, siempre de iure, en virtud a los contratos de la App. Store.
+
+El caso más conocido ha sido el de las aplicaciones de Google y su servicio Google Voice, retirado de la App Store una vez había sido aprobado. Se piensa que AT&T, la compañía que mantiene los derechos de distribución en exclusiva del iPhone en Estados Unidos presionó a Apple, puesto que Google Voice ofrecía teléfono sobre la red de datos, evitando así a los usuarios el uso del servicio de voz y el subsecuente pago de este.
+
+A finales de 2009 Google lanzó una página web para Google Voice especialmente diseñada para el navegador web del iPhone.
+
+También contra Google, Apple censuró la aplicación Google Maps del App Store a finales de 2012 tras el lanzamiento de su propia aplicación de mapas integrada en el sistema operativo iOS 6. Tras el aluvión de críticas recibidas sobre la calidad de los mapas y las correcciones sobre la app que Google estimó oportunas, Apple autorizó a Google Maps a estar disponible en la App Store de nuevo el 13 de diciembre de 2012.
+
+Es notable la gran censura que hace la marca de Cupertino hacia las aplicaciones con contenido sexual o pornográfico, ya que las elimina en fase de producción. Por el momento, Apple se toma muy en serio la censura en sus mercados de aplicaciones.
+
+Guerra de patentes
+Apple cuenta con cientos de patentes,51​ que ha usado en varias ocasiones (principalmente en los últimos años) para dificultar la competencia a empresas del mismo sector o incluso para frenar el desarrollo de estándares libres como el HTML5.52​
+
+En abril de 2011, Apple denunció a Samsung por robo de propiedad intelectual, al encontrar muy parecido el teléfono móvil Galaxy Ace de Samsung al iPhone de Apple.
+
+En julio de 2011, Apple ganó otra demanda contra la compañía taiwanesa HTC por violación de patentes de software en Estados Unidos, lo que obligó a HTC a parar la venta de los dispositivos que infringían la patente y a rediseñar la interfaz.53​ La empresa valenciana NT-K también fue denunciada al entender que estaban reproduciendo en sus dispositivos unos diseños registrados cuya titularidad corresponde exclusivamente a Apple. NT-K presentó una denuncia posterior contra Apple ante la Comisión Nacional de la Competencia y la sentencia dictada acabó con el sobreseimiento sobre la demanda que puso Apple primero.54​55​
+
+Al mes siguiente, en agosto, llegó a paralizar la venta de Samsung Galaxy Tab 10.1 en todos los países de la Unión Europea. Samsung por su parte los acusa de frenar la innovación.56​
+
+En febrero de 2012, volvió a demandar a Samsung ante el Tribunal de Distrito de Estados Unidos, por la venta de su nuevo modelo Galaxy Nexus, que presuntamente estaría infringiendo cuatro patentes de Apple, dos de ellas relacionadas con la tecnología táctil (una es una forma de desbloquear el teléfono y otra aporta mejoras de velocidad al introducir texto).57​58​
+
+Véase también: Apple contra Samsung Electronics
+Carencia de privacidad de los datos de los usuarios
+Artículo principal: Datos acerca de la vigilancia mundial (2013 a la fecha)
+Apple fue señalada, entre otras compañías desarrolladoras de productos de tecnología informática de punta, como una de las involucradas dentro del programa de vigilancia electrónica de alto secreto (Top Secret) PRISM, a cargo de la Agencia de Seguridad Nacional (NSA) de los Estados Unidos, según los informes y documentos filtrados por el ex informante y empleado de la Agencia Central de Inteligencia (CIA), Edward Snowden en junio de 2013.59​60​
+
+El 21 de enero de 2020, se conoció que Apple dejó sus planes para cifrar los backups de los usuarios para que fueran seguros, después de que el FBI se quejara.61​62​
+
+Obsolescencia programada
+
+Uno de los efectos de la obsolescencia programada es la producción de chatarra electrónica.
+La obsolescencia programada de los productos de Apple, es decir el diseño para acortar la vida útil de los productos para que estos que dejen de funcionar total o parcialmente tras un período de tiempo, ha obligado a la compañía a ofrecer indemnizaciones a los consumidores así como al pago de multas.
+
+iPhone
+Uno de los casos más sonados fue cuando Apple admitió en diciembre de 2017 que la actualización obligatoria del sistema operativo iOS estaba ralentizando a propósito los terminales iPhone de cierta edad.63​ Al ser descubierta, la compañía se excusó en que esto se hacía para que no se agotara la batería. En 2018, Italia multó con 10 millones de euros por prácticas de obsolescencia programada.64​ La sentencia hizo referencia a como se introducían mal funcionamiento para acelerar la "sustitución" del teléfono, así como también que Apple no proporcionaba datos correctos sobre la vida de las baterías, su mantenimiento, ni facilitaba la reparación.65​ También en Europa, las investigaciones que hizo Francia sobre reparabilidad (la capacidad de arreglar un dispositivo con un problema para alargar su uso) dieron a Apple la peor nota y además certificaron que eran diseñados para dificultar su reparación.66​
+MacBook
+Los portátiles MacBook, que como la línea de teléfonos iPhone se encuentran entre los más caros de su categoría, también sufren de obsolescencia programada y su reparación estaría dificultada a propósito.66​
+Empresa
+
+Este artículo o sección necesita referencias que aparezcan en una publicación acreditada.
+Busca fuentes: «Apple» – noticias · libros · académico · imágenes
+Este aviso fue puesto el 24 de mayo de 2013.
+
+Tienda de Apple en Michigan
+Negocio
+Apple fue una de varias empresas de gran éxito fundada en la década de 1970. Fue una de las empresas pioneras en el jefe casual, un directivo que ya no viste de saco y corbata. Otras empresas de gran éxito similar con los aspectos culturales del mismo período son Southwest Airlines y Microsoft. Steve Jobs a menudo caminaba alrededor de la oficina descalzo, incluso después de que Apple perteneciera al ranking de compañías Fortune 500. Este rasgo se ha convertido en un elemento distintivo de la empresa que había intentado diferenciarse de sus competidores.
+
+La empresa ha crecido y ha sido dirigida por una serie de jefes ejecutivos, cada uno con su propia idea de lo que Apple debe ser, algunos de carácter original, pero Apple aún tiene una reputación para el fomento de la individualidad y la excelencia. Para reconocer lo mejor de sus empleados, Apple creó el programa de becarios. Los miembros de Apple becarios son los que han hecho un extraordinario liderazgo técnico o contribuciones a la informática personal, mientras que en la empresa las becas de Apple hasta la fecha han sido concedidas a unos pocos individuos incluidos Bill Atkinson, Steve Capps, Rod Holt, Alan Kay, Guy Kawasaki, Al Alcorn, Don Norman y Steve Wozniak.
+
+
+La entrada de Apple Store en la Quinta Avenida en Nueva York es un cubo de cristal, seguido por un elevador cilíndrico y una escalera en espiral que lleva a la tienda subterránea.
+Usuarios
+Según las encuestas de JD Power, Apple tiene la mayor marca de recompra y la lealtad de cualquier fabricante de equipos y componentes informáticos. Si bien esta fidelidad a la marca (basada en la estrategia C2C) es considerada inusual para cualquier tipo de producto, Apple no parece haber dejado de lado su manera de trabajar. Hubo un tiempo, en que los evangelistas de Apple (exmiembros de la empresa que la promocionaban) se pasaban asiduamente por la empresa, pero esto fue después de que el fenómeno ya se hubiese establecido firmemente. El evangelista de Apple Guy Kawasaki, ha llamado a Apple la marca del fanatismo, algo con lo que se tropezó Apple, sin embargo, ha apoyado la existencia de una red de Grupos de Usuarios Mac en la mayoría de los grandes y muchos de los pequeños centros de población en la que los ordenadores Mac están disponibles.
+
+Los usuarios de Mac se reúnen en la Apple Expo y la Macworld de San Francisco, ferias donde Apple presenta nuevos productos cada año a la industria y al público. Los desarrolladores de Mac, a su vez, se reúnen en la asamblea anual de Apple en todo el mundo, la Developers Conference. Las aperturas de Apple Stores pueden sacar a miles de personas de sus casas, con grupos de gente esperando afuera de la tienda hasta un día antes de la inauguración o tomando un vuelo hacia otro país solo para asistir el evento. En la ciudad de Nueva York en(5th avenue) Apple abría una tienda con media milla de personas esperando, incluso alguna pareja celebrando su matrimonio. La apertura de Ginza en Tokio fue estimada en miles de personas.
+
+John Sculley dijo en el periódico The Guardian en 1997: «La gente habla acerca de la tecnología, pero Apple es una empresa de marketing. Es la empresa de marketing de la década».
+
+La investigación de mercado indica que Apple saca su base de clientes de una inusualmente artística, creativa y bien educada población, lo que puede explicar la plataforma de la visibilidad dentro de ciertos jóvenes vanguardistas.
+
+Finanzas
+En el trimestre que termina en abril de 2009, Apple divulgó una ganancia de US$1 200 000 000 (mil doscientos millones de dólares), que es 15 % superior al de igual período del año anterior, pues hubo fuertes ventas de iPhone y iPod.44​
+
+En el primer trimestre del 2011, la compañía reportó unos ingresos trimestrales de US$39 000 000 000 (treinta y nueve mil millones de dólares), y divulgó una ganancia neta de US$11 600 000 000 (once mil seiscientos millones de dólares), revelando fuertes ventas del iPhone, con 35 100 000 (treinta y cinco millones cien mil) unidades vendidas, y del iPad, con 11 800 000 (once millones ochocientas mil) unidades vendidas, aunque con un descenso del 15 % en la gama iPod, con 7 000 000 (siete millones) de unidades vendidas.67​
+
+Para el primer trimestre de 2017, que culminó el 31 de diciembre de 2016, la empresa californiana reportó un ingreso trimestral récord de $78 351 000 000 (setenta y ocho mil trescientos cincuenta y un millones de dólares), y un ingreso neto de $17 891 000 000 (diecisiete mil ochocientos noventa y un millones de dólares); para este mismo tiempo, en el año anterior (2016), la compañía había obtenido $75 872 000 000 (setenta y cinco mil ochocientos setenta y dos millones de dólares) en ingresos trimestrales, y $18 361 (dieciocho mil trescientos sesenta y un millones de dólares) en ingreso neto.68​ En el último trimestre de 2017, que culminó el 30 de septiembre, la compañía reportó unos ingresos de 52 579 000 000 (cincuenta y dos mil quinientos setenta y nueve millones de dólares), y, en el mismo periodo de 2016, el ingreso fue de 48 852 000 000 (cuarenta y ocho mil ochocientos cincuenta y dos millones de dólares). En comparación, existe un aumento de un 12 % en ganancias para el año 2017.69​
+
+Apple Inc., en su primer trimestre del 2018 que finalizó el 30 de diciembre de 2017, difundió unos resultados financieros récord para la compañía, pues registraron unos ingresos trimestrales de 88 293 000 000 (ochenta y ocho mil doscientos noventa y tres millones de dólares), donde hubo un 13 % en aumento de ingreso en comparación con los ingresos registrados para ese mismo trimestre del año anterior. Gracias a esto, la empresa más valiosa del mundo tuvo un ingreso neto de $20 065 000 000 (veinte mil sesenta y cinco millones de dólares). De igual forma, otro récord histórico para la empresa fue su registro de tiempo y ganancias trimestrales por acción diluida de $3,89. Las ventas internacionales representaron un 65 % de los ingresos del trimestre.70​
+
+Ingeniería fiscal
+Apple es una de las empresas multinacionales citadas en el contexto de una mayor preocupación por parte de las autoridades fiscales, respecto a medidas de armonización fiscal, especialmente con el fin de controlar la práctica de «trasladar la tributación de sus ganancias fuera de las jurisdicciones en las que se están generando». Así, cara a la reunión de la G-20 en febrero de 2013, la OCDE inició un proyecto denominado BEPS (Erosión de bases y transferencia de beneficios, en inglés Base Erosion and Profit Shifting) para evaluar la situación. En este sentido, algunos países europeos, sobre todo Francia, Alemania y Reino Unido, están liderando una iniciativa para coordinar mejor dicha tributación.71​
+
+Así, en 2011, a pesar de facturar más de 76 000 000 (multiplicando por 14 los ingresos de 2010), la filial de Apple en España solamente pagó 143 115 euros de impuestos por sus beneficios.72​
